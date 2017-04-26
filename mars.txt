@@ -2,3 +2,8 @@ this is the first line
 make a new line
 third line
 fourth line
+<<<<<<< HEAD
+=======
+fifth line
+
+>>>>>>> 7d05ae8265edc5cee4b083895ca40c68dbcf9e74
